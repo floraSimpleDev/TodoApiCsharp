@@ -1,0 +1,9 @@
+# .NET build artifacts
+bin/
+obj/
+out/
+*.dll
+*.pdb
+*.cache.json
+*.AssemblyInfo.*
+*.http
